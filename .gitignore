@@ -1,0 +1,7 @@
+third_party/
+x64/
+.vs/
+.vscode/
+.idea/
+*.user
+*.filters
